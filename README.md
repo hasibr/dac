@@ -36,7 +36,7 @@ The software / tools required for this include:
 
 1. Edit `terrastruct/diagram.d2` to code your diagram.
 
-3. Run the `terrastruct/diagram.d2` program in the container.
+3. Run the `d2` CLI with the file `terrastruct/diagram.d2` in the container.
 
     ```sh
     docker run --rm -it \
