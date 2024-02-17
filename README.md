@@ -5,13 +5,13 @@ you draw cloud system architecture using Python code. The prerequisites for
 running the Python program and rendering the diagram as an image is made
 available as a Docker image here.
 
-# Prerequisites
+## Prerequisites
 
 The software / tools required for this include:
 
 - Docker Desktop or Rancher Desktop
 
-# Usage
+## Usage
 
 1. Edit `diagram.py` to code your diagram.
 
